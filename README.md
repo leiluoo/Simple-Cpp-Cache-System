@@ -3,6 +3,7 @@
 
 组员：柯雷 郭长振 谢伟⽴ 王洁明 冷佳豫 欧阳磊落
 ## 系统介绍
+[系统设计文档](https://rootcheese.com/wp-content/uploads/2021/12/mini课题技术文档.pdf)
 ## 两个版本stable version & beta version
 ### beta version 使用方法
 #### clone代码

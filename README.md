@@ -1,5 +1,4 @@
 # Simple-Cpp-Cache-System
-a simple distributed cache system 
 2021/11 - 2021/12 引力计划第八小组课题作品
 
 组员：柯雷 郭长振 谢伟⽴ 王洁明 冷佳豫 欧阳磊落
